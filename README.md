@@ -12,7 +12,7 @@
   <h3 align="center">A Modern Next.js Portfolio</h3>
 
    <div align="center">
-     A minimalistic and modern looking portfolio website <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     A minimalistic and modern looking portfolio website
     </div>
 </div>
 
